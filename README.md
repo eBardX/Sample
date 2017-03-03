@@ -1,3 +1,3 @@
 # Sample
 
-Sample project for MVVM-based app.
+Sample project for MVVM-based iOS app.
