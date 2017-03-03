@@ -1,0 +1,10 @@
+//
+//  ProjectVersion.xcconfig
+//  Sample
+//
+//  Created by Cool Coder on YYYY-MM-DD.
+//
+//  © YYYY XYZ Partner, Inc.
+//
+
+CURRENT_PROJECT_VERSION = 1.0.0

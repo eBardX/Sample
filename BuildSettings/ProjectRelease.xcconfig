@@ -1,0 +1,10 @@
+//
+//  ProjectRelease.xcconfig
+//  Sample
+//
+//  Created by Cool Coder on YYYY-MM-DD.
+//
+//  © YYYY XYZ Partner, Inc.
+//
+
+#include "ProjectBase"
